@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d261f6a-764e-4e5d-b619-b1ab262fa6be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/softplan/softplanapp/Models/Usuarios.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/softplan/softplanapp/Controller/CadastroController.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/com/softplan/softplanapp/SoftplanappApplicationTests.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/softplan/softplanapp/Controller/IndexController.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/softplan/softplanapp/Repository/CadastroRepository.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/softplan/softplanapp/DataConfiguration.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/softplan/softplanapp/SoftplanappApplication.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\Logan\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k0XuUfISDiSXtsUdThfAYVIIj0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.SoftplanappApplication">
+    <configuration name="SoftplanappApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.softplan.softplanapp.SoftplanappApplication" />
+      <module name="softplanapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.softplan.softplanapp.Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Remote" nameIsGenerated="true">
+      <module name="softplanapp" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="8090" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SoftplanappApplication" />
+      <item itemvalue="Remote.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SoftplanappApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d261f6a-764e-4e5d-b619-b1ab262fa6be" name="Default Changelist" comment="" />
+      <created>1604838724021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604838724021</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#Project_Structure" timestamp="1606217484911">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="0" y="0" key="#Project_Structure/0.0.1024.728@0.0.1024.728" timestamp="1606217484911" />
+    <state x="0" y="0" width="1024" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604967805849">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="0" y="0" width="1024" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.728@0.0.1024.728" timestamp="1604967805849" />
+    <state width="944" height="163" key="GridCell.Tab.0.bottom" timestamp="1612841073770">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="944" height="163" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1612841073770" />
+    <state width="944" height="163" key="GridCell.Tab.0.center" timestamp="1612841073770">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="944" height="163" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1612841073770" />
+    <state width="944" height="163" key="GridCell.Tab.0.left" timestamp="1612841073770">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="944" height="163" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1612841073770" />
+    <state width="944" height="163" key="GridCell.Tab.0.right" timestamp="1612841073770">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state width="944" height="163" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1612841073770" />
+    <state x="42" y="19" key="Maven.ArtifactSearchDialog" timestamp="1606300398636">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="42" y="19" key="Maven.ArtifactSearchDialog/0.0.1024.728@0.0.1024.728" timestamp="1606300398636" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1612608006261">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1024.728@0.0.1024.728" timestamp="1612608006261" />
+  </component>
+</project>
